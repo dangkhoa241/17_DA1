@@ -1,0 +1,10 @@
+-Tạo csdl
+-Generate csdl
+-Cài ràng buộc trong csdl vs trigger
+-viết truy vấn, tạo index
+
+-record quá trình thảo luận
+-lập trình giao diện (post lên github)
+
+-ghi nhận index recommendation từ execution plan
+-báo cáo giải thích kết quả chạy truy vấn và quan sát execution plan gồm có/không có index), kết quả điều chỉnh chỉ mục (nếu có) dựa vào gợi ý của sqlserver hoặc tự đề xuất
