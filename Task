@@ -4,7 +4,9 @@
 -viết truy vấn, tạo index
 
 -record quá trình thảo luận
--lập trình giao diện (post lên github)
+-lập trình giao diện:
++Thêm mới hoá đơn
++Xem danh sách hoá đơn
++Thống kê doanh thu theo tháng
 
--ghi nhận index recommendation từ execution plan
--báo cáo giải thích kết quả chạy truy vấn và quan sát execution plan gồm có/không có index), kết quả điều chỉnh chỉ mục (nếu có) dựa vào gợi ý của sqlserver hoặc tự đề xuất
+-ghi nhận index recommendation từ execution plan, báo cáo giải thích kết quả chạy truy vấn và quan sát execution plan gồm có/không có index), kết quả điều chỉnh chỉ mục (nếu có) dựa vào gợi ý của sqlserver hoặc tự đề xuất
