@@ -16,3 +16,10 @@ C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\obj\Deb
 C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\obj\Debug\netcoreapp3.1\_17_DA1.Form2.resources
 C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\obj\Debug\netcoreapp3.1\_17_DA1.Form3.resources
 C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\obj\Debug\netcoreapp3.1\_17_DA1.Form4.resources
+C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Desktop\CSDLNC-19\Đồ án\CSDLNC_DA-1\17_DA1\obj\Debug\netcoreapp3.1\17_DA1.csproj.CopyComplete
