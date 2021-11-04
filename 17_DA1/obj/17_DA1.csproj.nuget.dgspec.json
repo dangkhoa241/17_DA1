@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Documents\\17_DA1\\17_DA1\\17_DA1.csproj": {}
+    "C:\\Users\\ACER\\Downloads\\17_DA1-main\\17_DA1-main\\17_DA1\\17_DA1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Documents\\17_DA1\\17_DA1\\17_DA1.csproj": {
+    "C:\\Users\\ACER\\Downloads\\17_DA1-main\\17_DA1-main\\17_DA1\\17_DA1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Documents\\17_DA1\\17_DA1\\17_DA1.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Downloads\\17_DA1-main\\17_DA1-main\\17_DA1\\17_DA1.csproj",
         "projectName": "17_DA1",
-        "projectPath": "C:\\Users\\ACER\\Documents\\17_DA1\\17_DA1\\17_DA1.csproj",
+        "projectPath": "C:\\Users\\ACER\\Downloads\\17_DA1-main\\17_DA1-main\\17_DA1\\17_DA1.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Documents\\17_DA1\\17_DA1\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Downloads\\17_DA1-main\\17_DA1-main\\17_DA1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
