@@ -23,6 +23,26 @@ namespace _17_DA1
         {
             conn = new SqlConnection(connectString);
             conn.Open();
+
+            conn = new SqlConnection(connectString);
+            conn.Open();
+
+            string sqlexec1 = "EXEC SP_THONGKE_DOANHTHU";
+            SqlCommand cmd1 = new SqlCommand(sqlexec1, conn);
+            cmd1.ExecuteNonQuery();
+            SqlDataAdapter da = new SqlDataAdapter(cmd1);
+            DataTable dt = new DataTable();
+
+            da.Fill(dt);
+            dataGridView1.DataSource = dt;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            conn.Close();
+            this.Close();
+            Form1 f1 = new Form1();
+            f1.Show();
         }
     }
 }
